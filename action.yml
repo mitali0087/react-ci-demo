@@ -1,0 +1,11 @@
+name: "Mitali Sawant"
+description: "To Run The Dockerfile"
+author: "mitali0087@gmail.com"
+
+runs:
+  using: "docker"
+  image: "Dockerfile"
+
+branding:
+  icon: "mic"
+  color: "purple"
